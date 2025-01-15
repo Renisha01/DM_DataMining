@@ -1,1 +1,1 @@
-# DM_DataMining
+# Simple DataMining Algoritham using pandas library
